@@ -1,4 +1,3 @@
-### Comprehensive Data Insights
 
 This project is a collection of data analysis tasks completed as part of a data analytics internship with Oasis Infobyte. It includes three distinct tasks, each focusing on a specific dataset and analysis objective. Below is a summary of the project:
 
